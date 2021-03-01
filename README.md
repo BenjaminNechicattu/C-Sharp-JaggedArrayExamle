@@ -3,5 +3,5 @@ Simple program to understand the working of C sharp program with jagged arrays. 
 
 `mcs -out:basket.exe basket.cs`
  this command creates an executable in the same folder.
- `mono basket`
- this command executes the generated executable file in same name.
+ `mono basket.exe` or `.\basket.exe`
+ this command executes the generated executable file in same name. Remember to install basic depandencies for C Sharp.
